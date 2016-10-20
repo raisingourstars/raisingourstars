@@ -1,0 +1,72 @@
+body {
+    max-width: 750px;
+    margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color: #283018;
+    background-color: #f0eceb;
+}
+
+footer {
+    padding-bottom: 32px;
+    text-align: center;
+}
+
+.title-super {
+    margin-top: 18px;
+    font-size: 55px;
+    color: #aa863a;
+}
+
+.sub-title {
+    margin-top: -2px;
+    margin-bottom: -1px;
+}
+
+.header-style {
+    padding-top: 24px;
+}
+
+.title-logo {
+    margin-top: 12px;
+}
+
+hr {
+    width: 100%;
+    color: #283018;
+    height: 2px;
+    background-color: #283018;
+}
+
+.section-title {
+    color: #aa863a;
+}
+
+figcaption {
+    padding-top: 12px;
+    font-size: 18px;
+}
+
+.text-thin {
+    font-weight: 100;
+}
+
+.bio-text {
+    padding-top: 16px;
+    font-size: 20px;
+}
+
+.contact-link {
+    margin-left: 3px;
+}
+
+.contact-name {
+    margin-left: 5px;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+    color: #729f98;
+}

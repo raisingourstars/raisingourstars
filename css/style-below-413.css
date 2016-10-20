@@ -1,0 +1,45 @@
+.title-super {
+    margin-top: 12px;
+    font-size: 24px;
+    margin-bottom: 0;
+}
+
+.sub-title {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+}
+
+.section-title {
+    margin-top: 16px;
+    font-size: 18px;
+}
+
+.title-logo {
+    visibility: hidden;
+}
+
+.bio-text {
+    padding-top: 10px;
+    font-size: 14px;
+}
+
+.img-text {
+    font-size: 14px;
+}
+
+.contact-name {
+  display: none;
+}
+
+.contact-link {
+    margin-left: 16px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin-bottom: 0;
+}
+
+.section-divider {
+    margin-top: 4px;
+    margin-bottom: 8px;
+}
